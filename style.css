@@ -17,10 +17,10 @@ li {
 /* Print */
 @media print {
     body {
-      font-size: 12px;
+      font-size: 16px;
     }
     main {
-      padding: 0.5cm;
+      padding: 2cm;
     }
   }
 /* MOBILE */
